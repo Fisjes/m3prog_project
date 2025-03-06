@@ -9,4 +9,6 @@ echo "<br>";
 echo $dagen[6];
 echo "<br>";
 echo $dagen[1];
+
+
 ?>
